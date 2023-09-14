@@ -1,7 +1,8 @@
 # pxy2csv
 
-konvertera pxy-fil till csv-fil
+Konvertera PXY-fill till CSV-fil!
+(det finns inget sånt här på nätet vad jag vet, för ingen utanför Sverige känner till formatet "pxy")
 
-det finns inget sånt här på nätet vad jag vet, för bara svenskar känner till formatet "pxy"
-
-så varför inte slänga upp det här
+Det här är en DÅLIG konverterare.
+Jag har bara testat den på de filer som jag har haft tillgång till själv.
+Jag kan inte garantera att den funkar för dina filer, utan det får du testa själv.
