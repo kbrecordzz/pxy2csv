@@ -7,4 +7,4 @@ Det här är en DÅLIG konverterare.
 Jag har bara testat den på de filer som jag har haft tillgång till själv.
 Jag kan inte garantera att den funkar för dina filer, utan det får du testa själv.
 
-Jag tänker inte förklara hur den funkar, koden är 15 rader så du kan lista ut det själv.
+Jag tänker inte förklara hur programmet funkar, utan jag ger dig som utmaning att försöka förstå dig på programmets 15 rader själv!
